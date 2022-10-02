@@ -12,4 +12,4 @@ result = 0
 while not(a == 0):
     result += a % 10
     a //= 10 
-print(result)
+print(f"Сумма цифр введенного числа ---> {result}")
